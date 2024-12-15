@@ -1,0 +1,8 @@
+todo-app:
+  api:
+    uri: http://localhost:8080
+    credentials:
+      username: admin
+      password: admin
+  websocket:
+    url: ws://localhost:8080/ws
